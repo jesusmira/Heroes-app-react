@@ -12,4 +12,6 @@ Ejercicio Heroes App del curso de React de Udemy de Fernando Herrera.
 -   QueryParams
 -   Aplicar filtros utilizando QueryStrings
 -   Uso del animate.css
+-   Protección de rutas privadas y rutas publicas
+
 
